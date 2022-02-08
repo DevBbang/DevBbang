@@ -1,19 +1,15 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&auto&height=300&section=header&text=DevBbang&fontSize=90&fontColor=black)
-
 <br>
 
 [![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&show_icons=true&theme=buefy)](https://github.com/devBbang/github-readme-stats)
-  
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBbang)](https://github.com/DevBbang/github-readme-stats)
-  
 <br>
   
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
-  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang) 
 <br>
 
 ### 🛠 Tech Stack 🛠
