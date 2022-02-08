@@ -3,16 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&auto&height=300&section=header&text=DevBbang&fontSize=90)
 
 <br>
-<br>
 
 [![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&show_icons=true&theme=buefy)](https://github.com/devBbang/github-readme-stats)
   
 <br>
-<br>
-  
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
   
-<br>
 <br>
 
 ### 🛠 Tech Stack 🛠
@@ -23,7 +20,6 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br>
 <br>
 <br>
 
