@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:92A8D1,100:FF9E9B&auto&height=300&section=header&text=DevBbang&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:92A8D1,100:FFB2B0&auto&height=300&section=header&text=DevBbang&fontSize=90&fontColor=FFFFFF)
 <br>
 
 [![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&count_private=false&custom_title=DevBbang's&nbsp;Github&nbsp;👀&bg_color=70,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/DevBbang/github-readme-stats)
