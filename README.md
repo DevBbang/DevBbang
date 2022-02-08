@@ -9,7 +9,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
   
 
-  <div style="font-size: 50px">🛠 Tech Stack 🛠</div>
+  <a style="font-size: 50px">🛠 Tech Stack 🛠</a>
 ### Techs that I've used at least once
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
