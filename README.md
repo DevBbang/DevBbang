@@ -9,7 +9,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang) 
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBbang&custom_title=My&nbsp;Language⌨️&bg_color=45,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF&layout=compact)](https://github.com/DevBbang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBbang&custom_title=My&nbsp;Language⌨️&bg_color=45,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF&)](https://github.com/DevBbang/github-readme-stats)
 <br>  
 
 ### 🛠 Tech Stack 🛠
