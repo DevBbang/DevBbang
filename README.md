@@ -4,8 +4,8 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
 
-<center>🛠 Tech Stack 🛠</center>
-<div style="text-align: center; font-size: 30px;">Techs that I've used at least once</div>
+# **🛠 Tech Stack 🛠**
+### Techs that I've used at least once
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
