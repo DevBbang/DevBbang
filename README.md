@@ -1,14 +1,10 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&auto&height=300&section=header&text=DevBbang&fontSize=90)
-  
-<hr>
 
 [![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&show_icons=true&theme=buefy)](https://github.com/devBbang/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
-  
-<hr>
 
 # **🛠 Tech Stack 🛠**
 ### Techs that I've used at least once
