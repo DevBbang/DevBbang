@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&auto&height=300&section=header&text=DevBbang&fontSize=90)
+![header]<center>(https://capsule-render.vercel.app/api?type=slice&color=gradient&auto&height=300&section=header&text=DevBbang&fontSize=90)</center>
 
 [![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&show_icons=true&theme=buefy)](https://github.com/devBbang/github-readme-stats)
 
