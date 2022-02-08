@@ -15,11 +15,11 @@
 ### 🛠 Tech Stack 🛠
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <br>
 <br>
 
