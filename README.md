@@ -19,6 +19,10 @@
 <br>
 
 ### ⭐️ I've Used ⭐️
+
+<img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/visual&nbsp;studio&nbsp;code-007ACC?style=flat&logo=visual&nbsp;studio&nbsp;code&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
