@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&auto&height=300&section=header&text=DevBbang&fontSize=90&fontColor=black)
 <br>
 
-[![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&count_private=false&custom_title=DevBbang's&nbsp;Github👀&bg_color=45,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/DevBbang/github-readme-stats)
+[![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&count_private=false&custom_title=DevBbang's&nbsp;Github👀&bg_color=80,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/DevBbang/github-readme-stats)
 <br>
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang) 
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBbang&custom_title=My&nbsp;Language⌨️&bg_color=45,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF&layout=compact)](https://github.com/DevBbang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBbang&custom_title=My&nbsp;Language⌨️&bg_color=80,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF&layout=compact)](https://github.com/DevBbang/github-readme-stats)
 <br>  
 
 ### 🛠 Tech Stack 🛠
