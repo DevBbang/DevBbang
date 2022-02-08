@@ -4,7 +4,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
 
-<div style="text-align: center; font-size: 50px;">🛠 Tech Stack 🛠</div>
+<center>🛠 Tech Stack 🛠</center>
 <div style="text-align: center; font-size: 30px;">Techs that I've used at least once</div>
 
 <div align=center> 
