@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack 🛠
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
 
