@@ -8,11 +8,8 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
   
-  
-<hr>
-  
 
-# **🛠 Tech Stack 🛠**
+# 🛠 Tech Stack 🛠
 ### Techs that I've used at least once
 
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
