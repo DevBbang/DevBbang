@@ -2,7 +2,7 @@
 
 [![DevBbang's github stats](https://github-readme-stats.vercel.app/api?username=DevBbang&show_icons=true&theme=buefy)](https://github.com/devBbang/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devbbang)](https://solved.ac/devbbang)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang)
 
 <div align=center>
   <h1>🛠 Tech Stack 🛠</h1>
