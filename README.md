@@ -12,14 +12,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBbang&custom_title=My&nbsp;Language&nbsp;🖋&bg_color=70,92A8D1,F7CAC9&title_color=FFFFFF&text_color=FFFFFF&layout=compact)](https://github.com/DevBbang/github-readme-stats)
 <br>  
 
-### 🛠 Languages and Platforms 🛠
+### 📚 Tech Stack 📚
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 <br>
 
+### ⭐️ I've Used ⭐️
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=git&logoColor=white">
 <br>
 <br>
 
