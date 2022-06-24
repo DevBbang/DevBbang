@@ -15,15 +15,11 @@
 ### 📚 Tech Stack 📚
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 <br>
 
 ### ⭐️ I've Used ⭐️
 
 <img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white">
-<img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
