@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:92A8D1,100:FFC2C1&auto&height=300&section=header&text=DevBbang&fontSize=90&fontColor=FFFFFF)
 <br>
 
-[![DevBbang's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=DevBbang)](https://github.com/DevBbang/github-readme-stats)
+[![DevBbang's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=ios_developer.th)](https://github.com/ios_developer.th/github-readme-stats)
 <br>
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=DevBbang)](https://solved.ac/DevBbang) 
 <br>
   
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DevBbang)](https://github.com/DevBbang/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ios_developer.th)](https://github.com/ios_developer.th/github-readme-stats)
 <br>  
 
 ### 📚 Tech Stack 📚
